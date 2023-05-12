@@ -15,7 +15,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 * Link Python to the database by creating a SQLAlchemy session.
 
 * Perform a precipitation analysis and then a station analysis by completing the steps in the following two subsections.
-
+* (Received help from a TA on creating engine to hawaii.sqlite)
 
 ## Precipitation Analysis
 * Find the most recent date in the dataset.
@@ -83,3 +83,4 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 * For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date.
 * For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
 
+* (Received advice from tutoring on the API section - should always have a name after the api)
